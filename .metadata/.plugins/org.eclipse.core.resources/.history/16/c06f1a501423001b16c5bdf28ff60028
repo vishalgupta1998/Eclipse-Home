@@ -1,0 +1,21 @@
+
+public class Overloadingclass {
+
+	public static void main(String[] args) {
+		public void Adder(int a,int b,int c)
+		{
+			
+		c = a + b;
+		System.out.println("C is"+c);
+		}
+		public void Adder(int a,int b)
+		{
+			
+		int j=a+b;
+		System.out.println("C is"+j);
+		}
+		
+
+	}
+
+}

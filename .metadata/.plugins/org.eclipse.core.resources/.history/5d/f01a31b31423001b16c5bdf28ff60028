@@ -1,0 +1,20 @@
+
+abstract class Test1 //abstract class  
+{  
+//abstract method declaration  
+abstract void display();  
+}  
+public class Myname extends Test1  
+{   
+void display()  
+{  
+System.out.println("Abstract method?");  
+}  
+public static void main(String args[])  
+{  
+//creating object of abstract class  
+Test1 obj = new Myname();  
+//invoking abstract method  
+obj.display();  
+}  
+}  

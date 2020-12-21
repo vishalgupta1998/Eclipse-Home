@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="148" started-at="2020-12-02T06:00:56Z" finished-at="2020-12-02T06:00:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="148" started-at="2020-12-02T06:00:56Z" finished-at="2020-12-02T06:00:56Z">
+      <class name="Javastream.JavaStreamConcepts">
+        <test-method status="PASS" signature="usingstream()[pri:0, instance:Javastream.JavaStreamConcepts@234bef66]" name="usingstream" duration-ms="106" started-at="2020-12-02T11:30:56Z" finished-at="2020-12-02T11:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usingstream -->
+        <test-method status="PASS" signature="usingmap()[pri:0, instance:Javastream.JavaStreamConcepts@234bef66]" name="usingmap" duration-ms="6" started-at="2020-12-02T11:30:56Z" finished-at="2020-12-02T11:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usingmap -->
+        <test-method status="PASS" signature="filterextended()[pri:0, instance:Javastream.JavaStreamConcepts@234bef66]" name="filterextended" duration-ms="4" started-at="2020-12-02T11:30:56Z" finished-at="2020-12-02T11:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterextended -->
+        <test-method status="PASS" signature="streamcollect()[pri:0, instance:Javastream.JavaStreamConcepts@234bef66]" name="streamcollect" duration-ms="8" started-at="2020-12-02T11:30:56Z" finished-at="2020-12-02T11:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamcollect -->
+      </class> <!-- Javastream.JavaStreamConcepts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

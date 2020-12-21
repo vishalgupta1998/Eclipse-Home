@@ -1,0 +1,19 @@
+package Maven.AllInOne;
+
+import java.io.IOException;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
+
+import Resources.Base;
+
+public class Homepage {
+	@Test
+	public void yesh() throws IOException
+	{
+		Base accessdriver = new Base();
+        WebDriver driver= accessdriver.base();
+        driver.get("");
+	}
+
+}

@@ -1,0 +1,16 @@
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.util.Properties;
+import java.io.IOException;
+
+public class Globalvaluesalive  {
+	public static void main(String []args) throws IOException, FileNotFoundException{
+	Properties prop= Properties();
+	FileInputStream fis = new FileInputStream("C:\\Users\\pc\\Desktop\\VishalTest\\src\\data2.properties");
+    prop.load(fis);
+    System.out.println(prop.getProperty("browser"));
+}
+
+		
+	
+}

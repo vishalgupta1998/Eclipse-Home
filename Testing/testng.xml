@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name ="Testingmerge">
+<Listeners>
+    <Listener class-name="Vtestingpk.Listenertest">
+    </Listener>
+          </Listeners>
+  <test name="Loan">
+  <parameter name ="Url" value = "Loan.com"/>
+    <classes>
+      <class name="Vtestingpk.Vtesting">
+      
+      <methods>
+       <exclude name= "Accesories.*"/>
+      </methods>
+      
+  </class>
+      <class name="Vtestingpk.Vtesting2"/>
+      
+       
+    </classes>
+    
+  
+  </test> <!-- Test -->
+  <test name = "CarLoan">
+  
+  <parameter name="Url" value="Carloan.com"></parameter>
+  <parameter name="Username" value="1236554"></parameter>
+  
+  <classes>
+  <class name="Vtestingpk.Vtesting3"></class>
+  
+  
+  
+  </classes>
+  </test>
+</suite> <!-- Suite -->
+ 

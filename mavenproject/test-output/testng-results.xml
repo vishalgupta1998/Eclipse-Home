@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39" started-at="2020-12-09T09:56:34Z" finished-at="2020-12-09T09:56:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39" started-at="2020-12-09T09:56:34Z" finished-at="2020-12-09T09:56:34Z">
+      <class name="qaclickacademy.mavenproject.RestapiTest">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:qaclickacademy.mavenproject.RestapiTest@7fac631b]" name="firstTest" duration-ms="14" started-at="2020-12-09T15:26:34Z" finished-at="2020-12-09T15:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- qaclickacademy.mavenproject.RestapiTest -->
+      <class name="qaclickacademy.mavenproject.AppiumTest">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:qaclickacademy.mavenproject.AppiumTest@1dfe2924]" name="firstTest" duration-ms="2" started-at="2020-12-09T15:26:34Z" finished-at="2020-12-09T15:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- qaclickacademy.mavenproject.AppiumTest -->
+      <class name="qaclickacademy.mavenproject.Seleniumtest">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:qaclickacademy.mavenproject.Seleniumtest@6ebc05a6]" name="firstTest" duration-ms="1" started-at="2020-12-09T15:26:34Z" finished-at="2020-12-09T15:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- qaclickacademy.mavenproject.Seleniumtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

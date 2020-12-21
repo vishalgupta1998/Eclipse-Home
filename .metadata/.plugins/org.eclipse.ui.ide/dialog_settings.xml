@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\pc\workspace\E2EProject\E2EProject"/>
+		<item value="C:\Users\pc\eclipse-workspace"/>
+		<item value="C:\Users\pc\Desktop\VishalTest"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="378" key="DIALOG_HEIGHT"/>
+		<item value="432" key="DIALOG_X_ORIGIN"/>
+		<item value="112" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\workspace\Locators2"/>
+			<item value="D:\workspace\abc"/>
+			<item value="D:\workspace\Testing"/>
+			<item value="D:\workspace\TestNgTutorial"/>
+			<item value="D:\workspace\TestNGTutorial"/>
+			<item value="D:\workspace\Introduction"/>
+			<item value="D:\workspace\Introduction2"/>
+			<item value="D:\workspace\Mavenjava"/>
+			<item value="D:\eclipse-workspace1\abc"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+</section>

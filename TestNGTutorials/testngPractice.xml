@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="College Data">
+    <parameter name="URL" value="rahulshettyacademy.com"></parameter>
+	<test name="Records">
+		<classes>
+			<!-- <class name="Practise.day1" /> -->
+			<class name="Practise.day2">
+				<methods>
+					<exclude name="library.*">
+					</exclude>
+				</methods>
+
+
+			</class>
+
+		</classes>
+	</test>
+	 <!-- Test -->
+</suite> <!-- Suite -->

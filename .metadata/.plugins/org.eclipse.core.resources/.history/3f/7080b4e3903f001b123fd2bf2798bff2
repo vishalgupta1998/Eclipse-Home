@@ -1,0 +1,28 @@
+package Maven.AllInOne;
+
+import java.io.IOException;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
+
+import Resources.Base;
+import pageObjects.LandingPage;
+import pageObjects.LoginPage;
+
+public class Homepage {
+	@Test
+	public void yesh() throws IOException
+	{
+		Base accessdriver = new Base();
+        WebDriver driver= accessdriver.base();
+        driver.get("http://www.qaclickacademy.com/");
+        LandingPage lg = new LandingPage(driver);
+        lg.getLogin().click();
+        LoginPage obj = new LoginPage(driver);
+        obj.email().sendKeys("Vishal");
+        obj.pass().sendKeys("Hey");
+        obj.login().click();
+        
+	}
+
+}

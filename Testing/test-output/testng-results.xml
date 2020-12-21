@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="7" total="9" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2020-11-20T10:06:39Z" finished-at="2020-11-20T10:06:39Z">
+    <groups>
+      <group name="Smoke">
+        <method signature="Vtesting.carloan()[pri:0, instance:Vtestingpk.Vtesting@48eff760]" name="carloan" class="Vtestingpk.Vtesting"/>
+        <method signature="Vtesting4.smoke()[pri:0, instance:Vtestingpk.Vtesting4@5ae9a829]" name="smoke" class="Vtestingpk.Vtesting4"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Testsmoke" duration-ms="46" started-at="2020-11-20T10:06:39Z" finished-at="2020-11-20T10:06:39Z">
+      <class name="Vtestingpk.Vtesting">
+        <test-method status="PASS" signature="carloan()[pri:0, instance:Vtestingpk.Vtesting@48eff760]" name="carloan" duration-ms="0" started-at="2020-11-20T15:36:39Z" finished-at="2020-11-20T15:36:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carloan -->
+      </class> <!-- Vtestingpk.Vtesting -->
+      <class name="Vtestingpk.Vtesting4">
+        <test-method status="PASS" signature="smoke()[pri:0, instance:Vtestingpk.Vtesting4@5ae9a829]" name="smoke" duration-ms="0" started-at="2020-11-20T15:36:39Z" finished-at="2020-11-20T15:36:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smoke -->
+      </class> <!-- Vtestingpk.Vtesting4 -->
+    </test> <!-- Testsmoke -->
+  </suite> <!-- Suite -->
+</testng-results>

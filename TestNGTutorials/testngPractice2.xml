@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="College Data">
+	<test name="Records">
+		<groups>
+			<run>
+				<exclude name="Smoke" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Practise.day1" />
+			<class name="Practise.day2">
+			</class>
+
+		</classes>
+	</test>
+	<!-- Test -->
+</suite> <!-- Suite -->

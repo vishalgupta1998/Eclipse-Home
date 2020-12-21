@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1608477435214_2" label="hey" name="hey">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Locators" type="4"/>
+<item elementID="=E2E" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SeleniumGrid" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestNGTutorials" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavascriptExecutor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavaStream" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Extentreports" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Log4jDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PageObjects" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/abcs" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AllInOne" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mavenproject" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Mavenjava" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ExceldataDriven" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1604572372394_0" label="Window Working Set" name="Aggregate for window 1604572372394"/>
+</workingSetManager>
